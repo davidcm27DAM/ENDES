@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DcmPractica2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DcmPractica2_jar</output-path>
+    <root id="archive" name="DcmPractica2.jar">
+      <element id="module-output" name="DcmPractica2" />
+    </root>
+  </artifact>
+</component>
